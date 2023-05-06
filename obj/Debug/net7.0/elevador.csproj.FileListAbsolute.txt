@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Área de Trabalho\elevador\bin\Debug\net7.0\elevador.exe
+C:\Users\User\OneDrive\Área de Trabalho\elevador\bin\Debug\net7.0\elevador.deps.json
+C:\Users\User\OneDrive\Área de Trabalho\elevador\bin\Debug\net7.0\elevador.runtimeconfig.json
+C:\Users\User\OneDrive\Área de Trabalho\elevador\bin\Debug\net7.0\elevador.dll
+C:\Users\User\OneDrive\Área de Trabalho\elevador\bin\Debug\net7.0\elevador.pdb
+C:\Users\User\OneDrive\Área de Trabalho\elevador\obj\Debug\net7.0\elevador.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Área de Trabalho\elevador\obj\Debug\net7.0\elevador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Área de Trabalho\elevador\obj\Debug\net7.0\elevador.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\elevador\obj\Debug\net7.0\elevador.AssemblyInfo.cs
+C:\Users\User\OneDrive\Área de Trabalho\elevador\obj\Debug\net7.0\elevador.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\elevador\obj\Debug\net7.0\elevador.dll
+C:\Users\User\OneDrive\Área de Trabalho\elevador\obj\Debug\net7.0\refint\elevador.dll
+C:\Users\User\OneDrive\Área de Trabalho\elevador\obj\Debug\net7.0\elevador.pdb
+C:\Users\User\OneDrive\Área de Trabalho\elevador\obj\Debug\net7.0\elevador.genruntimeconfig.cache
+C:\Users\User\OneDrive\Área de Trabalho\elevador\obj\Debug\net7.0\ref\elevador.dll
